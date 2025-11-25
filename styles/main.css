@@ -9,3 +9,11 @@
 .very-light-gray {
     background-color: rgb(238, 238, 238);
 }
+
+.some-padding-on-top {
+    padding-top: 25px;
+}
+
+.some-padding-at-the-bottom {
+    padding-bottom: 30px;
+}
